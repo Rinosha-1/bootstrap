@@ -1,0 +1,95 @@
+/* h1{
+    color:red;
+    text-align:center;
+}
+p{
+    color:black
+}
+div{
+    border:10px dotted black;
+    padding-left:4px;
+    padding-right:4px;
+    padding-bottom:4px;
+    padding-top: 4px;
+
+} */
+/* div>p{
+    color:blue
+} */
+/* pseudo class selectors
+selector:pseuodo class
+link,visited,hover,active
+ */
+/* a:link{
+background-color: red;
+text-decoration: none;
+}
+a:visited{
+    background-color: green;
+    text-decoration: none;
+}
+a:hover{
+    background-color: yellow;
+    text-decoration: none;
+}
+a:active{
+    background-color: blue;
+    text-decoration: none;
+}
+div{
+    background-color: aqua;
+    width:300px;
+    height:300px;
+}
+div:hover{
+    background-color: blueviolet;
+    margin-left: 50px;
+}
+pseudo element selectors */
+/* p::first-line{
+    color:blue;
+
+}
+p::before{
+    content:"hello guys"
+}
+p::after{
+    content:"bye guys"
+} */
+/* #id1{
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+    /* display: none; */
+
+
+/* #id2{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+} */ 
+/* span{
+    background-color: aqua;
+    display: inline;
+    width: 50px;
+    height: 50px;
+}
+span{
+    background-color: aqua;
+    display:block;
+    width: 50px;
+    height: 50px;
+}
+span{
+    background-color: aqua;
+    display:inline-block;
+    width: 50px;
+    height: 50px;
+} */
+div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    overflow: auto;
+    
+}
